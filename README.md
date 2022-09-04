@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Themover99
-- 👀 I’m interested in OBD I (yes that is correct, 1) vehicals
-- 🌱 I’m currently learning ... how to diagnose and repair these vehicles as i have changed my engine 
+- 👀 I’m interested in OBD I (yes that is correct, 1) vehicals.
+- 🌱 I’m currently learning ... how to diagnose and repair these vehicles as i have changed my engine and i am interested in learning arduino to make my custom guages.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
